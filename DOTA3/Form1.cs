@@ -61,7 +61,6 @@ namespace DOTA3
         void form_FormClosed1(object sender, FormClosedEventArgs e)
         {
             this.Close();
-           
         }
     }
 }
